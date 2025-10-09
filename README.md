@@ -1,5 +1,5 @@
 Four-layer PCB project expanding two USB ports from a computer into eight downstream ports.
-Designed in KiCad, conceptually based on the CircuitDigest project, but extended to support two independent USB hub controllers.
+Designed in KiCad, conceptually based on the CircuitDigest (Original project: https://circuitdigest.com/electronic-circuits/diy-hub-port-extender) project, but extended to support two independent USB hub controllers.
 
 Base Project (CircuitDigest)
 - Uses the GL850G USB 2.0 hub controller
