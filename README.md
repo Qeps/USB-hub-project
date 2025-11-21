@@ -35,3 +35,4 @@ Photo of the prototypes:
 ![20251121_185347](https://github.com/user-attachments/assets/3d8be624-a609-4d14-b512-eb19e8e2adbe)
 
 Having the boards early in the process accelerates testing and helps refine the next revision.
+Here you can order your board: https://www.pcbway.com/
