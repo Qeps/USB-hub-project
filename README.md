@@ -1,3 +1,4 @@
+# PCB Design
 Four-layer PCB project expanding two USB ports from a computer into eight downstream ports.
 Designed in KiCad, conceptually based on the CircuitDigest (Original project: https://circuitdigest.com/electronic-circuits/diy-hub-port-extender) project, but extended to support two independent USB hub controllers.
 
@@ -24,3 +25,13 @@ KiCAD schematic:
 
 KiCAD 3D board view:
 <img width="1724" height="930" alt="ProjektUSBHUB" src="https://github.com/user-attachments/assets/7ac1dd4f-7ce7-4037-aa00-b9dce68094b5" />
+
+# Prototype Board
+This project is currently under development and PCBWay provided the prototype boards as part of a collaboration. The PCBs arrived with consistent manufacturing quality: clean routing, correct layer alignment, and accurate silkscreen. 
+
+The ordering workflow was straightforward. Uploading the Gerber files and selecting the manufacturing parameters was clear enough that the whole process stayed focused on the technical aspects of the design.
+
+Photo of the prototypes:
+![20251121_185347](https://github.com/user-attachments/assets/3d8be624-a609-4d14-b512-eb19e8e2adbe)
+
+Having the boards early in the process accelerates testing and helps refine the next revision.
